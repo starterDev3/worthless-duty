@@ -140,33 +140,33 @@ const sliderLists = [
 	id: 1,
 	name: "Shadow of the Colossus",
 	image: "/images/drink1.png",
-	title: "Simple Ingredients, Bold Flavor",
+	title: "One of the best games ever made",
 	description:
-	 "Made with tequila, lime juice, and orange liqueur, the Margarita is easy to make and full of character. Add a salted rim for the perfect drink on summer nights.",
+	 "rahaha despite first launching on the PS2 (2005) it was insanely ahead of its time ez",
  },
  {
 	id: 2,
 	name: "Ico",
 	image: "/images/drink2.png",
-	title: "A Zesty Classic That Never Fails",
+	title: "The first game to be made by Team Ico real!!1!!",
 	description:
-	 "The Margarita is a classic that balances tangy lime, smooth tequila, and a touch of sweetness. Shaken, frozen, or on the rocks—it’s always crisp & refreshing.",
+	 "i have nothing else to say about this one besides the fact that its cool",
  },
  {
 	id: 3,
 	name: "The Last Guardian",
 	image: "/images/drink3.png",
-	title: "Simple Ingredients, Bold Flavor",
+	title: "One of the most recent games launched by Team Ico",
 	description:
-	 "Made with tequila, lime juice, and orange liqueur, the Margarita is easy to make and full of character. Add a salted rim for the perfect drink on summer nights.",
+	 "epic beasts kinda looks like the Shadow of the Colossus remake from 2018 (PS4) ez",
  },
  {
 	id: 4,
 	name: "idk what else Team Ico is making ez",
 	image: "/images/drink4.png",
-	title: "Crafted With Care, Poured With Love",
+	title: "speaking of the SOTC remake...",
 	description:
-	 "Each cocktail is made with fresh ingredients and a passion for perfecting every pour, whether you're celebrating or simply relaxing.",
+	 "...its uh cool yeah, doesn't live up to the OG though just saying ez",
  },
 ];
 
