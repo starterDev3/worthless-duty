@@ -142,7 +142,7 @@ const sliderLists = [
 	image: "/images/shadow.png",
 	title: "One of the best games ever made",
 	description:
-	 "rahaha despite first launching on the PS2 (2005) it was insanely ahead of its time ez",
+	 "rahaha despite first launching for the PS2 (2005) it was insanely ahead of its time ez",
  },
  {
 	id: 2,
@@ -150,7 +150,7 @@ const sliderLists = [
 	image: "/images/ico.png",
 	title: "(pronounced: ee-co), The first game to be made by Team ICO real!!1!!",
 	description:
-	 "i have nothing else to say about this one besides the fact that its cool",
+	 "first launched for the PS2 (2001) i have nothing else to say about this one besides the fact that its cool",
  },
  {
 	id: 3,
@@ -158,7 +158,7 @@ const sliderLists = [
 	image: "/images/guardian.png",
 	title: "One of the most recent games launched by Team ICO",
 	description:
-	 "epic beasts kinda looks like the Shadow of the Colossus remake from 2018 (PS4) ez",
+	 "epic beasts launched for the PS4 (2016) kinda looks like the Shadow of the Colossus remake ez",
  },
  {
 	id: 4,
@@ -166,7 +166,7 @@ const sliderLists = [
 	image: "/images/shadowPS4.png",
 	title: "speaking of the SOTC remake...",
 	description:
-	 "...its uh cool yeah, doesn't live up to the OG though just saying ez",
+	 "...launched for the PS4 (2018), its uh cool yeah, doesn't live up to the OG though just saying ez",
  },
 ];
 
