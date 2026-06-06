@@ -139,31 +139,31 @@ const sliderLists = [
  {
 	id: 1,
 	name: "Shadow of the Colossus",
-	image: "/images/drink1.png",
+	image: "/images/shadow.png",
 	title: "One of the best games ever made",
 	description:
 	 "rahaha despite first launching on the PS2 (2005) it was insanely ahead of its time ez",
  },
  {
 	id: 2,
-	name: "Ico",
-	image: "/images/drink2.png",
-	title: "The first game to be made by Team Ico real!!1!!",
+	name: "ICO",
+	image: "/images/ico.png",
+	title: "(pronounced: ee-co), The first game to be made by Team ICO real!!1!!",
 	description:
 	 "i have nothing else to say about this one besides the fact that its cool",
  },
  {
 	id: 3,
 	name: "The Last Guardian",
-	image: "/images/drink3.png",
-	title: "One of the most recent games launched by Team Ico",
+	image: "/images/guardian.png",
+	title: "One of the most recent games launched by Team ICO",
 	description:
 	 "epic beasts kinda looks like the Shadow of the Colossus remake from 2018 (PS4) ez",
  },
  {
 	id: 4,
-	name: "idk what else Team Ico is making ez",
-	image: "/images/drink4.png",
+	name: "idk what else Team ICO is making ez",
+	image: "/images/shadowPS4.png",
 	title: "speaking of the SOTC remake...",
 	description:
 	 "...its uh cool yeah, doesn't live up to the OG though just saying ez",
