@@ -19,56 +19,57 @@ const navLinks = [
 
 const cocktailLists = [
  {
-	name: "Chapel Hill Shiraz",
-	country: "AU",
-	detail: "Battle",
-	price: "$10",
+	name: "Minotaur A",
+	country: "F5",
+	detail: "No Agro",
+	price: "$566645",
  },
  {
-	name: "Caten Malbee",
-	country: "AU",
-	detail: "Battle",
-	price: "$49",
+	name: "Mammoth",
+	country: "F3",
+	detail: "Yes Agro",
+	price: "$44575469",
  },
  {
-	name: "Rhino Pale Ale",
-	country: "CA",
-	detail: "750 ml",
-	price: "$20",
+	name: "Knight",
+	country: "E2",
+	detail: "No Agro",
+	price: "$24365640",
  },
  {
-	name: "Irish Guinness",
-	country: "IE",
-	detail: "600 ml",
-	price: "$29",
+	name: "Kirin",
+	country: "G5",
+	detail: "Yes Agro",
+	price: "$456829",
  },
 ];
 
 const mockTailLists = [
  {
-	name: "Tropical Bloom",
-	country: "US",
-	detail: "Battle",
-	price: "$10",
+	name: "Bird",
+	country: "H4",
+	detail: "No Agro",
+	price: "$6556565610",
  },
  {
-	name: "Passionfruit Mint",
-	country: "US",
-	detail: "Battle",
-	price: "$49",
+	name: "Minotaur B",
+	country: "D6",
+	detail: "No Agro",
+	price: "$965857568969789",
  },
  {
-	name: "Citrus Glow",
-	country: "CA",
-	detail: "750 ml",
-	price: "$20",
+	name: "Eel",
+	country: "D1",
+	detail: "No Agro",
+	price: "$3463565365363620",
  },
  {
-	name: "Lavender Fizz",
-	country: "IE",
-	detail: "600 ml",
-	price: "$29",
+	name: "Yamori B",
+	country: "G6",
+	detail: "No Agro",
+	price: "$537357335729",
  },
+
 ];
 
 const profileLists = [
@@ -87,17 +88,17 @@ const profileLists = [
 ];
 
 const featureLists = [
- "Perfectly balanced blends",
- "Garnished to perfection",
- "Ice-cold every time",
- "Expertly shaken & stirred",
+ "Grotesque Figures",
+ "A Despair-Filled Farewell",
+ "Liberated Guardian",
+ "In Awe of the Power",
 ];
 
 const goodLists = [
- "Handpicked ingredients",
- "Signature techniques",
- "Bartending artistry in action",
- "Freshly muddled flavors",
+ "undefined ingredients",
+ "<cancer?>",
+ "AAAAAAAA",
+ ":)",
 ];
 
 const storeInfo = {
@@ -137,7 +138,7 @@ const socials = [
 const sliderLists = [
  {
 	id: 1,
-	name: "Classic Mojito",
+	name: "Shadow of the Colossus",
 	image: "/images/drink1.png",
 	title: "Simple Ingredients, Bold Flavor",
 	description:
@@ -145,7 +146,7 @@ const sliderLists = [
  },
  {
 	id: 2,
-	name: "Raspberry Mojito",
+	name: "Ico",
 	image: "/images/drink2.png",
 	title: "A Zesty Classic That Never Fails",
 	description:
@@ -153,7 +154,7 @@ const sliderLists = [
  },
  {
 	id: 3,
-	name: "Violet Breeze",
+	name: "The Last Guardian",
 	image: "/images/drink3.png",
 	title: "Simple Ingredients, Bold Flavor",
 	description:
@@ -161,7 +162,7 @@ const sliderLists = [
  },
  {
 	id: 4,
-	name: "Curacao Mojito",
+	name: "idk what else Team Ico is making ez",
 	image: "/images/drink4.png",
 	title: "Crafted With Care, Poured With Love",
 	description:
